@@ -1,4 +1,4 @@
-# Github-Profile-Config
+# About me
 
 Hi! This is Aswin Prasad. Currently a master's student in Software Engineering at San Jose State University. I have two years of full-stack software development experience. I have in-depth knowledge in Javascript Frameworks such as ReactJs, NodeJs, and Java Framework Spring.
 
