@@ -4,6 +4,6 @@ Hi! This is Aswin Prasad. Currently a master's student in Software Engineering a
 
 I am currently learning Python, and it has given me a new perspective on Programming.
 
-You can reach me via my email: mailto:aswinpchn@gmail.com
+You can reach me via my email: aswinpchn@gmail.com
 
 Linkedin Profile: http://linkedin.com/in/aswinpchn
