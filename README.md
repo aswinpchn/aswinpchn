@@ -6,4 +6,4 @@ I am currently learning Python, and it has given me a new perspective on Program
 
 You can reach me via my email: mailto:aswinpchn@gmail.com
 
-Linkedin Profile: http://linkedin.com/in/aswin-prasad
+Linkedin Profile: http://linkedin.com/in/aswinpchn
